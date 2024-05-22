@@ -30,5 +30,6 @@ function bubbleSort(array) {
   // Return the sorted array
   return array;
 }
-```
+
 module.exports = bubbleSort;
+```
