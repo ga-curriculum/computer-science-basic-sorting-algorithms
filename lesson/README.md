@@ -119,6 +119,9 @@ Bubble sort has a quadratic runtime — the worst one! Think about how many iter
 
 <iframe width="619" height="348" src="https://www.youtube.com/embed/k4RRi_ntQc8" title="Barack Obama - Computer Science Question" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="619" height="348" src="https://www.youtube.com/embed/k4RRi_ntQc8" title="Barack Obama - Computer Science Question" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Meet Insertion Sort
 
 Next up is insertion sort. Basically, an insertion sort takes each item and inserts it into the right place in the array.
