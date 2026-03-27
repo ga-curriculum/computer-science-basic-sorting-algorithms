@@ -21,7 +21,7 @@ By the end of this module, learners will be able to:
 There are two components to this module:
 
 1. Lesson: [Basic Sorting Algorithms](./lesson/README.md)
-2. Exercise: [Implementing Bubble & Insertion Sorts](https://git.generalassemb.ly/modular-curriculum-all-courses/basic-sorting-algorithms-starter-code)
+2. Exercise: [Implementing Bubble & Insertion Sorts](https://github.com/ga-curriculum/basic-sorting-algorithms-starter-code)
 
 ## Solution Code 
 
