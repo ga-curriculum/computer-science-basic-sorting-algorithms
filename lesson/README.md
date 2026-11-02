@@ -39,7 +39,7 @@ Here’s the basic process of the bubble sort algorithm:
 4. Move on to the next item.
 5. Repeat Steps 1–4 until you can go through the whole list without making any swaps.
 
-![Bubble Sort](https://ga-instruction.s3.amazonaws.com/assets/tech/computer-science/basic-sorts/bubble-sort.gif)
+![Bubble Sort](https://ga-curriculum.github.io/universal-resources-internal/static/lesson-assets/tech/computer-science/basic-sorts/bubble-sort.gif)
 
 ## How Bubble Sort works
 
@@ -126,7 +126,7 @@ Next up is insertion sort. Basically, an insertion sort takes each item and inse
 
 Like bubble sort, insertion sort isn’t terribly efficient — it ends up traversing over and over the array many times. However, it’s definitely faster than bubble sort and works more efficiently in a wider variety of circumstances. It’s mainly used in real life in conjunction with bucket sort, which we’ll learn about soon.
 
-![Insertion Sort](https://ga-instruction.s3.amazonaws.com/assets/tech/computer-science/basic-sorts/insertion-sort.gif)
+![Insertion Sort](https://ga-curriculum.github.io/universal-resources-internal/static/lesson-assets/tech/computer-science/basic-sorts/insertion-sort.gif)
 
 ## Insertion Sort Visualized
 
